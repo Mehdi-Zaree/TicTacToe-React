@@ -45,7 +45,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![screencapture-tic-tac-toe-react-self-delta-vercel-app-2024-08-16-14_34_56](https://github.com/user-attachments/assets/f487dbe2-e90e-41e2-ac0b-71aed3759a37)
+</br>
 This mini game is Tic Tac Toe game for me to exercise my javaScriipt logic.
 
 ### Built With
