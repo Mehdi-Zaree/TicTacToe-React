@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    src: url(Inter_24pt-ExtraBold.ttf);
+}
+main{
+    font-family: 'Montserrat';
+}
