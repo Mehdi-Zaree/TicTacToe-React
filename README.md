@@ -29,7 +29,7 @@
 
 
   <p align="center">
-    <a href="https://tic-tac-toe-react-self-delta.vercel.app/">View Demo</a>
+    <a href="https://tic-tac-toe-react1-mu.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/Mehdi-Zaree/TicTacToe-React/issues">Report Bug</a>
     ·
