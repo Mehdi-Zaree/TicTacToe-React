@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-        <main className={'bg-[#5A1E76] w-full h-screen 2xl:container mx-auto relative flex items-center'}>
+        <main className={'bg-[#5A1E76] w-full h-screen 2xl:container mx-auto relative flex items-center px-2'}>
             <h1 className={'hidden lg:block text-9xl  absolute bottom-20 left-20  '}>
                 <div className={'text-[#DCBF3F]'}>tic.</div>
                 <div className={'text-[#72CFF9]'}>tac.</div>
