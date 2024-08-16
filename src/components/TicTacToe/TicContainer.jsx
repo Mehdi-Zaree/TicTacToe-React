@@ -124,7 +124,7 @@ function TicContainer() {
         }
     },[tiles])
     return (
-        <div className={' w-[400px] mx-auto 3   rounded-lg bg-[#2B0040] px-16 py-8  '}>
+        <div className={'w-full md:w-[400px] mx-auto 3   rounded-lg bg-[#2B0040] px-16 py-8  '}>
             {/*result boxes*/}
             <div className={'w-full flex items-center justify-center  *:h-20 *:w-20  gap-3 *:rounded *:text-center *:pt-5 '}>
                 <div className={'bg-[#48D2FE]'}>
